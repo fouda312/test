@@ -873,7 +873,7 @@ font-weight: bold;
 .subscribe{
   padding-top: var(--min-padding);
   padding-bottom: var(--min-padding);
-background-image: url(../image/ee.png);
+background-image: url("../image/ee.png");
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
