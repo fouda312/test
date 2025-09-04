@@ -523,26 +523,11 @@
                   }
                    /* end section video  */
                      /*  start section about  */
-                      .about{
+                          .about{
                         padding-top: var(--min-padding);
-                        position: relative;
-                        overflow: hidden;
-                        height: 80vh;
+                   
                       }
-                      .about img{
-                       position: absolute;
-                       left: 50%;
-                       transform: translateX(-50%);
-                      }
-                      @media (max-width:768px) {
-                        .about img{
-                         width: 250px;
-                        margin: 0px;
-
-                        }
-                                            
-
-                      }
+                      
                       /*  end section about */
                        /* start section Statistics */
                        .statistics{
