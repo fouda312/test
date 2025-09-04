@@ -754,7 +754,7 @@
 .quote{
 padding-bottom: 100px;
 padding-top: 100px;
-background-image: url(/image/ee.png);
+background-image: url("../image/ee.png");
 background-repeat: no-repeat;
 background-size: cover;
 position: relative;
