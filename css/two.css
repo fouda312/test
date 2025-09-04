@@ -347,7 +347,7 @@
              /* end section services  */
               /* start section design  */
                   .design{
-                     background-image: url(/image/ee.png);
+                     background-image: url("../image/ee.png");
                      background-repeat: no-repeat;
                      background-position: center;
                      background-size: cover;
