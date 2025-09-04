@@ -548,7 +548,7 @@
                        .statistics{
                         padding-bottom: var(--min-padding);
                         background-color: red;
-                        background-image: url(/image/ee.png);
+                        background-image: url("../image/ee.png");
                         width: 100%;
                         height: 60vh;
                         background-position: center;
