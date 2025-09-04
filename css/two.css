@@ -185,7 +185,7 @@
      /* <!-- end sectiom header --> */
      /* start section landing */
     .landing{
-    background-image: url(../image/ee.png);
+    background-image: url("../image/ee.png");
     background-color: red;
     background-size: cover;
     background-position: center; 
