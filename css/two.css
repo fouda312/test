@@ -485,8 +485,8 @@
                   .video::before{
                      content: "";
                      position: absolute;
-                     background-color: black;
-                     opacity: 40%;
+                     background-color: var(--min-color);
+                     opacity: 0%;
                      width: 100%;
                      height: calc(100% - 55px);
                      top: 50px;
